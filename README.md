@@ -101,6 +101,7 @@ restart_method: command
 ### Дополнительная информация
 [STM32F103xx_Datasheet.pdf](datasheets/STM32F103xx_Datasheet.pdf)  
 [GD32F303xx_Datasheet_Rev1.9.pdf](datasheets/GD32F303xx_Datasheet_Rev1.9.pdf)  
+Серия GD32E103/F303 заменяет STM32F103 [китайский форум](https://blog.csdn.net/qq_23852045/article/details/109802955)  
 
 Пины
 ```
