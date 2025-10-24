@@ -1,12 +1,12 @@
 # K1_T9_GD32F303CBT6  
 
-Проект по замене чипа `GD32F303CBT6` на `STM32F103CBT6`
-BOM: 
-  `STM32F103CBT6`x1  
-  `STLink V2.1 USB-модуль для отладки STM32` https://aliexpress.ru/item/1005005303809188.html  
-  Software `STM32CubeProgrammer` https://www.st.com/en/development-tools/stm32cubeprog.html  
-  Прямые руки для замены чипа, или обратиться в мастерскую по починке техники, думаю вам там все сделают  
-  коннектор JST-XH2.54 4p для удобного подключения к STLink V2.1  (выпаивать его не надо)
+Проект по замене чипа `GD32F303CBT6` на `STM32F103CBT6`   
+BOM:  
+* `STM32F103CBT6`x1 можно заказать на aliexpress за копейки ну или на ozon задорого  
+* `STLink V2.1 USB-модуль для отладки STM32` https://aliexpress.ru/item/1005005303809188.html  
+* Software `STM32CubeProgrammer` https://www.st.com/en/development-tools/stm32cubeprog.html  
+* Прямые руки для замены чипа(нужен фен, паяльник, флюс,отмывка, мкроскоп, мильтиметр, если не знаешь что это такое, то лучше обраться к тем кто умеет), или обратиться в мастерскую по починке техники, думаю вам там все сделают  
+* коннектор JST-XH2.54 4p для удобного подключения к STLink V2.1  (выпаивать его не надо)  
 
 
 ## Замена чипа
